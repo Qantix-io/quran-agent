@@ -1,0 +1,1028 @@
+[
+  {
+    "number": 1,
+    "name_ar": "الفاتحة",
+    "name_fr": "L'Ouverture",
+    "name_en": "The Opening",
+    "verses_count": 7,
+    "revelation_type": "Meccan",
+    "theme_category": "gratitude"
+  },
+  {
+    "number": 2,
+    "name_ar": "البقرة",
+    "name_fr": "La Vache",
+    "name_en": "The Cow",
+    "verses_count": 286,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 3,
+    "name_ar": "آل عمران",
+    "name_fr": "La Famille de 'Imran",
+    "name_en": "Family of Imran",
+    "verses_count": 200,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 4,
+    "name_ar": "النساء",
+    "name_fr": "Les Femmes",
+    "name_en": "The Women",
+    "verses_count": 176,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 5,
+    "name_ar": "المائدة",
+    "name_fr": "La Table servie",
+    "name_en": "The Table Spread",
+    "verses_count": 120,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 6,
+    "name_ar": "الأنعام",
+    "name_fr": "Les Bestiaux",
+    "name_en": "The Cattle",
+    "verses_count": 165,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 7,
+    "name_ar": "الأعراف",
+    "name_fr": "Al-A'raf",
+    "name_en": "The Heights",
+    "verses_count": 206,
+    "revelation_type": "Meccan",
+    "theme_category": "history"
+  },
+  {
+    "number": 8,
+    "name_ar": "الأنفال",
+    "name_fr": "Le Butin",
+    "name_en": "The Spoils of War",
+    "verses_count": 75,
+    "revelation_type": "Medinan",
+    "theme_category": "history"
+  },
+  {
+    "number": 9,
+    "name_ar": "التوبة",
+    "name_fr": "Le Repentir",
+    "name_en": "The Repentance",
+    "verses_count": 129,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 10,
+    "name_ar": "يونس",
+    "name_fr": "Jonas",
+    "name_en": "Jonah",
+    "verses_count": 109,
+    "revelation_type": "Meccan",
+    "theme_category": "prophets"
+  },
+  {
+    "number": 11,
+    "name_ar": "هود",
+    "name_fr": "Houd",
+    "name_en": "Hud",
+    "verses_count": 123,
+    "revelation_type": "Meccan",
+    "theme_category": "prophets"
+  },
+  {
+    "number": 12,
+    "name_ar": "يوسف",
+    "name_fr": "Joseph",
+    "name_en": "Joseph",
+    "verses_count": 111,
+    "revelation_type": "Meccan",
+    "theme_category": "prophets"
+  },
+  {
+    "number": 13,
+    "name_ar": "الرعد",
+    "name_fr": "Le Tonnerre",
+    "name_en": "The Thunder",
+    "verses_count": 43,
+    "revelation_type": "Medinan",
+    "theme_category": "patience"
+  },
+  {
+    "number": 14,
+    "name_ar": "إبراهيم",
+    "name_fr": "Abraham",
+    "name_en": "Abraham",
+    "verses_count": 52,
+    "revelation_type": "Meccan",
+    "theme_category": "prophets"
+  },
+  {
+    "number": 15,
+    "name_ar": "الحجر",
+    "name_fr": "Al-Hijr",
+    "name_en": "The Rocky Tract",
+    "verses_count": 99,
+    "revelation_type": "Meccan",
+    "theme_category": "history"
+  },
+  {
+    "number": 16,
+    "name_ar": "النحل",
+    "name_fr": "Les Abeilles",
+    "name_en": "The Bee",
+    "verses_count": 128,
+    "revelation_type": "Meccan",
+    "theme_category": "creation"
+  },
+  {
+    "number": 17,
+    "name_ar": "الإسراء",
+    "name_fr": "Le Voyage nocturne",
+    "name_en": "The Night Journey",
+    "verses_count": 111,
+    "revelation_type": "Meccan",
+    "theme_category": "history"
+  },
+  {
+    "number": 18,
+    "name_ar": "الكهف",
+    "name_fr": "La Caverne",
+    "name_en": "The Cave",
+    "verses_count": 110,
+    "revelation_type": "Meccan",
+    "theme_category": "patience"
+  },
+  {
+    "number": 19,
+    "name_ar": "مريم",
+    "name_fr": "Marie",
+    "name_en": "Mary",
+    "verses_count": 98,
+    "revelation_type": "Meccan",
+    "theme_category": "prophets"
+  },
+  {
+    "number": 20,
+    "name_ar": "طه",
+    "name_fr": "Ta-Ha",
+    "name_en": "Ta-Ha",
+    "verses_count": 135,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 21,
+    "name_ar": "الأنبياء",
+    "name_fr": "Les Prophètes",
+    "name_en": "The Prophets",
+    "verses_count": 112,
+    "revelation_type": "Meccan",
+    "theme_category": "prophets"
+  },
+  {
+    "number": 22,
+    "name_ar": "الحج",
+    "name_fr": "Le Pèlerinage",
+    "name_en": "The Pilgrimage",
+    "verses_count": 78,
+    "revelation_type": "Medinan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 23,
+    "name_ar": "المؤمنون",
+    "name_fr": "Les Croyants",
+    "name_en": "The Believers",
+    "verses_count": 118,
+    "revelation_type": "Meccan",
+    "theme_category": "paradise"
+  },
+  {
+    "number": 24,
+    "name_ar": "النور",
+    "name_fr": "La Lumière",
+    "name_en": "The Light",
+    "verses_count": 64,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 25,
+    "name_ar": "الفرقان",
+    "name_fr": "Le Discernement",
+    "name_en": "The Criterion",
+    "verses_count": 77,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 26,
+    "name_ar": "الشعراء",
+    "name_fr": "Les Poètes",
+    "name_en": "The Poets",
+    "verses_count": 227,
+    "revelation_type": "Meccan",
+    "theme_category": "prophets"
+  },
+  {
+    "number": 27,
+    "name_ar": "النمل",
+    "name_fr": "Les Fourmis",
+    "name_en": "The Ant",
+    "verses_count": 93,
+    "revelation_type": "Meccan",
+    "theme_category": "history"
+  },
+  {
+    "number": 28,
+    "name_ar": "القصص",
+    "name_fr": "Les Récits",
+    "name_en": "The Stories",
+    "verses_count": 88,
+    "revelation_type": "Meccan",
+    "theme_category": "prophets"
+  },
+  {
+    "number": 29,
+    "name_ar": "العنكبوت",
+    "name_fr": "L'Araignée",
+    "name_en": "The Spider",
+    "verses_count": 69,
+    "revelation_type": "Meccan",
+    "theme_category": "patience"
+  },
+  {
+    "number": 30,
+    "name_ar": "الروم",
+    "name_fr": "Les Byzantins",
+    "name_en": "The Romans",
+    "verses_count": 60,
+    "revelation_type": "Meccan",
+    "theme_category": "history"
+  },
+  {
+    "number": 31,
+    "name_ar": "لقمان",
+    "name_fr": "Luqman",
+    "name_en": "Luqman",
+    "verses_count": 34,
+    "revelation_type": "Meccan",
+    "theme_category": "society"
+  },
+  {
+    "number": 32,
+    "name_ar": "السجدة",
+    "name_fr": "La Prosternation",
+    "name_en": "The Prostration",
+    "verses_count": 30,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 33,
+    "name_ar": "الأحزاب",
+    "name_fr": "Les Coalisés",
+    "name_en": "The Combined Forces",
+    "verses_count": 73,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 34,
+    "name_ar": "سبأ",
+    "name_fr": "Saba'",
+    "name_en": "Sheba",
+    "verses_count": 54,
+    "revelation_type": "Meccan",
+    "theme_category": "history"
+  },
+  {
+    "number": 35,
+    "name_ar": "فاطر",
+    "name_fr": "Le Créateur",
+    "name_en": "Originator",
+    "verses_count": 45,
+    "revelation_type": "Meccan",
+    "theme_category": "creation"
+  },
+  {
+    "number": 36,
+    "name_ar": "يس",
+    "name_fr": "Ya-Sin",
+    "name_en": "Ya-Sin",
+    "verses_count": 83,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 37,
+    "name_ar": "الصافات",
+    "name_fr": "Les Rangés",
+    "name_en": "Those who set the Ranks",
+    "verses_count": 182,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 38,
+    "name_ar": "ص",
+    "name_fr": "Sad",
+    "name_en": "Sad",
+    "verses_count": 88,
+    "revelation_type": "Meccan",
+    "theme_category": "patience"
+  },
+  {
+    "number": 39,
+    "name_ar": "الزمر",
+    "name_fr": "Les Groupes",
+    "name_en": "The Troops",
+    "verses_count": 75,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 40,
+    "name_ar": "غافر",
+    "name_fr": "Le Pardonneur",
+    "name_en": "The Forgiver",
+    "verses_count": 85,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 41,
+    "name_ar": "فصلت",
+    "name_fr": "Les Versets détaillés",
+    "name_en": "Explained in Detail",
+    "verses_count": 54,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 42,
+    "name_ar": "الشورى",
+    "name_fr": "La Consultation",
+    "name_en": "The Consultation",
+    "verses_count": 53,
+    "revelation_type": "Meccan",
+    "theme_category": "society"
+  },
+  {
+    "number": 43,
+    "name_ar": "الزخرف",
+    "name_fr": "L'Ornement",
+    "name_en": "The Ornaments of Gold",
+    "verses_count": 89,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 44,
+    "name_ar": "الدخان",
+    "name_fr": "La Fumée",
+    "name_en": "The Smoke",
+    "verses_count": 59,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 45,
+    "name_ar": "الجاثية",
+    "name_fr": "L'Agenouillée",
+    "name_en": "The Crouching",
+    "verses_count": 37,
+    "revelation_type": "Meccan",
+    "theme_category": "society"
+  },
+  {
+    "number": 46,
+    "name_ar": "الأحقاف",
+    "name_fr": "Al-Ahqaf",
+    "name_en": "The Wind-Curved Sandhills",
+    "verses_count": 35,
+    "revelation_type": "Meccan",
+    "theme_category": "history"
+  },
+  {
+    "number": 47,
+    "name_ar": "محمد",
+    "name_fr": "Muhammad",
+    "name_en": "Muhammad",
+    "verses_count": 38,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 48,
+    "name_ar": "الفتح",
+    "name_fr": "La Victoire éclatante",
+    "name_en": "The Victory",
+    "verses_count": 29,
+    "revelation_type": "Medinan",
+    "theme_category": "gratitude"
+  },
+  {
+    "number": 49,
+    "name_ar": "الحجرات",
+    "name_fr": "Les Appartements",
+    "name_en": "The Private Apartments",
+    "verses_count": 18,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 50,
+    "name_ar": "ق",
+    "name_fr": "Qaf",
+    "name_en": "Qaf",
+    "verses_count": 45,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 51,
+    "name_ar": "الذاريات",
+    "name_fr": "Qui éparpillent",
+    "name_en": "The Winnowing Winds",
+    "verses_count": 60,
+    "revelation_type": "Meccan",
+    "theme_category": "creation"
+  },
+  {
+    "number": 52,
+    "name_ar": "الطور",
+    "name_fr": "Le Mont",
+    "name_en": "The Mount",
+    "verses_count": 49,
+    "revelation_type": "Meccan",
+    "theme_category": "paradise"
+  },
+  {
+    "number": 53,
+    "name_ar": "النجم",
+    "name_fr": "L'Étoile",
+    "name_en": "The Star",
+    "verses_count": 62,
+    "revelation_type": "Meccan",
+    "theme_category": "creation"
+  },
+  {
+    "number": 54,
+    "name_ar": "القمر",
+    "name_fr": "La Lune",
+    "name_en": "The Moon",
+    "verses_count": 55,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 55,
+    "name_ar": "الرحمن",
+    "name_fr": "Le Tout Miséricordieux",
+    "name_en": "The Beneficent",
+    "verses_count": 78,
+    "revelation_type": "Medinan",
+    "theme_category": "paradise"
+  },
+  {
+    "number": 56,
+    "name_ar": "الواقعة",
+    "name_fr": "L'Événement",
+    "name_en": "The Inevitable",
+    "verses_count": 96,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 57,
+    "name_ar": "الحديد",
+    "name_fr": "Le Fer",
+    "name_en": "The Iron",
+    "verses_count": 29,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 58,
+    "name_ar": "المجادلة",
+    "name_fr": "La Discussion",
+    "name_en": "The Pleading Woman",
+    "verses_count": 22,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 59,
+    "name_ar": "الحشر",
+    "name_fr": "L'Exode",
+    "name_en": "The Banishment",
+    "verses_count": 24,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 60,
+    "name_ar": "الممتحنة",
+    "name_fr": "L'Éprouvée",
+    "name_en": "She that is to be examined",
+    "verses_count": 13,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 61,
+    "name_ar": "الصف",
+    "name_fr": "Le Rang",
+    "name_en": "The Ranks",
+    "verses_count": 14,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 62,
+    "name_ar": "الجمعة",
+    "name_fr": "Le Vendredi",
+    "name_en": "The Congregation",
+    "verses_count": 11,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 63,
+    "name_ar": "المنافقون",
+    "name_fr": "Les Hypocrites",
+    "name_en": "The Hypocrites",
+    "verses_count": 11,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 64,
+    "name_ar": "التغابن",
+    "name_fr": "La Grande perte",
+    "name_en": "Mutual Disillusion",
+    "verses_count": 18,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 65,
+    "name_ar": "الطلاق",
+    "name_fr": "Le Divorce",
+    "name_en": "Divorce",
+    "verses_count": 12,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 66,
+    "name_ar": "التحريم",
+    "name_fr": "L'Interdiction",
+    "name_en": "The Prohibition",
+    "verses_count": 12,
+    "revelation_type": "Medinan",
+    "theme_category": "society"
+  },
+  {
+    "number": 67,
+    "name_ar": "الملك",
+    "name_fr": "La Royauté",
+    "name_en": "The Sovereignty",
+    "verses_count": 30,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 68,
+    "name_ar": "القلم",
+    "name_fr": "La Plume",
+    "name_en": "The Pen",
+    "verses_count": 52,
+    "revelation_type": "Meccan",
+    "theme_category": "patience"
+  },
+  {
+    "number": 69,
+    "name_ar": "الحاقة",
+    "name_fr": "L'Inéluctable",
+    "name_en": "The Reality",
+    "verses_count": 52,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 70,
+    "name_ar": "المعارج",
+    "name_fr": "Les Voies d'ascension",
+    "name_en": "The Ascending Stairways",
+    "verses_count": 44,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 71,
+    "name_ar": "نوح",
+    "name_fr": "Noé",
+    "name_en": "Noah",
+    "verses_count": 28,
+    "revelation_type": "Meccan",
+    "theme_category": "prophets"
+  },
+  {
+    "number": 72,
+    "name_ar": "الجن",
+    "name_fr": "Les Djinns",
+    "name_en": "The Jinn",
+    "verses_count": 28,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 73,
+    "name_ar": "المزمل",
+    "name_fr": "L'Enveloppé",
+    "name_en": "The Enshrouded One",
+    "verses_count": 20,
+    "revelation_type": "Meccan",
+    "theme_category": "patience"
+  },
+  {
+    "number": 74,
+    "name_ar": "المدثر",
+    "name_fr": "Le Revêtu d'un manteau",
+    "name_en": "The Cloaked One",
+    "verses_count": 56,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 75,
+    "name_ar": "القيامة",
+    "name_fr": "La Résurrection",
+    "name_en": "The Resurrection",
+    "verses_count": 40,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 76,
+    "name_ar": "الإنسان",
+    "name_fr": "L'Homme",
+    "name_en": "Man",
+    "verses_count": 31,
+    "revelation_type": "Medinan",
+    "theme_category": "paradise"
+  },
+  {
+    "number": 77,
+    "name_ar": "المرسلات",
+    "name_fr": "Les Envoyés",
+    "name_en": "The Emissaries",
+    "verses_count": 50,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 78,
+    "name_ar": "النبأ",
+    "name_fr": "La Nouvelle",
+    "name_en": "The Tidings",
+    "verses_count": 40,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 79,
+    "name_ar": "النازعات",
+    "name_fr": "Ceux qui arrachent",
+    "name_en": "Those who drag forth",
+    "verses_count": 46,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 80,
+    "name_ar": "عبس",
+    "name_fr": "Il s'est renfrogné",
+    "name_en": "He frowned",
+    "verses_count": 42,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 81,
+    "name_ar": "التكوير",
+    "name_fr": "L'Obscurcissement",
+    "name_en": "The Overthrowing",
+    "verses_count": 29,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 82,
+    "name_ar": "الانفطار",
+    "name_fr": "La Rupture",
+    "name_en": "The Cleaving",
+    "verses_count": 19,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 83,
+    "name_ar": "المطففين",
+    "name_fr": "Les Fraudeurs",
+    "name_en": "Defrauding",
+    "verses_count": 36,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 84,
+    "name_ar": "الانشقاق",
+    "name_fr": "La Déchirure",
+    "name_en": "The Splitting Open",
+    "verses_count": 25,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 85,
+    "name_ar": "البروج",
+    "name_fr": "Les Constellations",
+    "name_en": "The Mansions of the Stars",
+    "verses_count": 22,
+    "revelation_type": "Meccan",
+    "theme_category": "history"
+  },
+  {
+    "number": 86,
+    "name_ar": "الطارق",
+    "name_fr": "L'Astre nocturne",
+    "name_en": "The Morning Star",
+    "verses_count": 17,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 87,
+    "name_ar": "الأعلى",
+    "name_fr": "Le Très-Haut",
+    "name_en": "The Most High",
+    "verses_count": 19,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 88,
+    "name_ar": "الغاشية",
+    "name_fr": "L'enveloppante",
+    "name_en": "The Overwhelming",
+    "verses_count": 26,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 89,
+    "name_ar": "الفجر",
+    "name_fr": "L'Aube",
+    "name_en": "The Dawn",
+    "verses_count": 30,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 90,
+    "name_ar": "البلد",
+    "name_fr": "La Cité",
+    "name_en": "The City",
+    "verses_count": 20,
+    "revelation_type": "Meccan",
+    "theme_category": "society"
+  },
+  {
+    "number": 91,
+    "name_ar": "الشمس",
+    "name_fr": "Le Soleil",
+    "name_en": "The Sun",
+    "verses_count": 15,
+    "revelation_type": "Meccan",
+    "theme_category": "creation"
+  },
+  {
+    "number": 92,
+    "name_ar": "الليل",
+    "name_fr": "La Nuit",
+    "name_en": "The Night",
+    "verses_count": 21,
+    "revelation_type": "Meccan",
+    "theme_category": "society"
+  },
+  {
+    "number": 93,
+    "name_ar": "الضحى",
+    "name_fr": "Le Jour montant",
+    "name_en": "The Morning Hours",
+    "verses_count": 11,
+    "revelation_type": "Meccan",
+    "theme_category": "gratitude"
+  },
+  {
+    "number": 94,
+    "name_ar": "الشرح",
+    "name_fr": "L'Ouverture",
+    "name_en": "The Relief",
+    "verses_count": 8,
+    "revelation_type": "Meccan",
+    "theme_category": "gratitude"
+  },
+  {
+    "number": 95,
+    "name_ar": "التين",
+    "name_fr": "Le Figuier",
+    "name_en": "The Fig",
+    "verses_count": 8,
+    "revelation_type": "Meccan",
+    "theme_category": "creation"
+  },
+  {
+    "number": 96,
+    "name_ar": "العلق",
+    "name_fr": "L'Adhérence",
+    "name_en": "The Clot",
+    "verses_count": 19,
+    "revelation_type": "Meccan",
+    "theme_category": "creation"
+  },
+  {
+    "number": 97,
+    "name_ar": "القدر",
+    "name_fr": "La Destinée",
+    "name_en": "The Power",
+    "verses_count": 5,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 98,
+    "name_ar": "البينة",
+    "name_fr": "La Preuve évidente",
+    "name_en": "The Clear Proof",
+    "verses_count": 8,
+    "revelation_type": "Medinan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 99,
+    "name_ar": "الزلزلة",
+    "name_fr": "Le Séisme",
+    "name_en": "The Earthquake",
+    "verses_count": 8,
+    "revelation_type": "Medinan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 100,
+    "name_ar": "العاديات",
+    "name_fr": "Les Coursiers",
+    "name_en": "The Courser",
+    "verses_count": 11,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 101,
+    "name_ar": "القارعة",
+    "name_fr": "Le Fracas",
+    "name_en": "The Calamity",
+    "verses_count": 11,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 102,
+    "name_ar": "التكاثر",
+    "name_fr": "La Course aux richesses",
+    "name_en": "The Rivalry in world increase",
+    "verses_count": 8,
+    "revelation_type": "Meccan",
+    "theme_category": "society"
+  },
+  {
+    "number": 103,
+    "name_ar": "العصر",
+    "name_fr": "Le Temps",
+    "name_en": "The Declining Day",
+    "verses_count": 3,
+    "revelation_type": "Meccan",
+    "theme_category": "patience"
+  },
+  {
+    "number": 104,
+    "name_ar": "الهمزة",
+    "name_fr": "Les Moqueurs",
+    "name_en": "The Traducer",
+    "verses_count": 9,
+    "revelation_type": "Meccan",
+    "theme_category": "society"
+  },
+  {
+    "number": 105,
+    "name_ar": "الفيل",
+    "name_fr": "L'Éléphant",
+    "name_en": "The Elephant",
+    "verses_count": 5,
+    "revelation_type": "Meccan",
+    "theme_category": "history"
+  },
+  {
+    "number": 106,
+    "name_ar": "قريش",
+    "name_fr": "Les Quraysh",
+    "name_en": "Quraysh",
+    "verses_count": 4,
+    "revelation_type": "Meccan",
+    "theme_category": "history"
+  },
+  {
+    "number": 107,
+    "name_ar": "الماعون",
+    "name_fr": "L'Entraide",
+    "name_en": "The Small kindnesses",
+    "verses_count": 7,
+    "revelation_type": "Meccan",
+    "theme_category": "society"
+  },
+  {
+    "number": 108,
+    "name_ar": "الكوثر",
+    "name_fr": "L'Abondance",
+    "name_en": "The Abundance",
+    "verses_count": 3,
+    "revelation_type": "Meccan",
+    "theme_category": "gratitude"
+  },
+  {
+    "number": 109,
+    "name_ar": "الكافرون",
+    "name_fr": "Les Mécréants",
+    "name_en": "The Disbelievers",
+    "verses_count": 6,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 110,
+    "name_ar": "النصر",
+    "name_fr": "Les Secours",
+    "name_en": "The Divine Support",
+    "verses_count": 3,
+    "revelation_type": "Medinan",
+    "theme_category": "gratitude"
+  },
+  {
+    "number": 111,
+    "name_ar": "المسد",
+    "name_fr": "Les Fibres",
+    "name_en": "The Palm Fibre",
+    "verses_count": 5,
+    "revelation_type": "Meccan",
+    "theme_category": "judgment"
+  },
+  {
+    "number": 112,
+    "name_ar": "الإخلاص",
+    "name_fr": "Le Monothéisme pur",
+    "name_en": "The Sincerity",
+    "verses_count": 4,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 113,
+    "name_ar": "الفلق",
+    "name_fr": "L'Aube naissante",
+    "name_en": "The Daybreak",
+    "verses_count": 5,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  },
+  {
+    "number": 114,
+    "name_ar": "الناس",
+    "name_fr": "Les Hommes",
+    "name_en": "Mankind",
+    "verses_count": 6,
+    "revelation_type": "Meccan",
+    "theme_category": "tawhid"
+  }
+]

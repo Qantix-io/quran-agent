@@ -1,0 +1,47 @@
+{
+  "gratitude": {
+    "keywords": ["sunrise", "nature peaceful", "open hands sky", "golden light meadow"],
+    "mood": "serene and warm",
+    "color_palette": "golden greens"
+  },
+  "paradise": {
+    "keywords": ["lush garden", "flowing water", "flowers light", "peaceful forest"],
+    "mood": "ethereal and calm",
+    "color_palette": "emerald and gold"
+  },
+  "judgment": {
+    "keywords": ["dramatic sky", "cracked desert", "storm clouds", "rocky landscape"],
+    "mood": "solemn and powerful",
+    "color_palette": "deep orange and grey"
+  },
+  "creation": {
+    "keywords": ["nebula space", "ocean waves", "northern lights", "desert sunrise"],
+    "mood": "awe-inspiring",
+    "color_palette": "deep blue and gold"
+  },
+  "patience": {
+    "keywords": ["mountain snow", "slow waves", "forest path", "calm lake"],
+    "mood": "meditative",
+    "color_palette": "cool blues and greens"
+  },
+  "prophets": {
+    "keywords": ["islamic architecture", "desert ancient", "mediterranean sea", "old stone city"],
+    "mood": "historic and reverent",
+    "color_palette": "warm sandstone"
+  },
+  "tawhid": {
+    "keywords": ["geometric islamic pattern", "calligraphy light", "mosque interior", "abstract light"],
+    "mood": "transcendent",
+    "color_palette": "deep teal and gold"
+  },
+  "society": {
+    "keywords": ["warm interior light", "soft urban morning", "community gathering", "peaceful street"],
+    "mood": "warm and grounded",
+    "color_palette": "warm neutrals"
+  },
+  "history": {
+    "keywords": ["epic landscape", "stormy sky", "ancient ruins", "rocky mountain path"],
+    "mood": "epic and reflective",
+    "color_palette": "dramatic greys and amber"
+  }
+}
