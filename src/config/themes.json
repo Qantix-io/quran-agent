@@ -1,47 +1,67 @@
 {
   "gratitude": {
-    "keywords": ["sunrise", "nature peaceful", "open hands sky", "golden light meadow"],
+    "keywords": ["golden sunrise mountain", "sun rays through clouds dramatic", "warm sunset golden field"],
     "mood": "serene and warm",
     "color_palette": "golden greens"
   },
   "paradise": {
-    "keywords": ["lush garden", "flowing water", "flowers light", "peaceful forest"],
+    "keywords": ["tropical waterfall lush green", "crystal river forest sunlight", "flowers meadow golden light"],
     "mood": "ethereal and calm",
     "color_palette": "emerald and gold"
   },
   "judgment": {
-    "keywords": ["dramatic sky", "cracked desert", "storm clouds", "rocky landscape"],
+    "keywords": ["dramatic storm clouds lightning", "cracked dry desert vast", "dark stormy ocean waves"],
     "mood": "solemn and powerful",
     "color_palette": "deep orange and grey"
   },
   "creation": {
-    "keywords": ["nebula space", "ocean waves", "northern lights", "desert sunrise"],
+    "keywords": ["aurora borealis green purple sky", "dramatic sunset clouds ocean", "mountain peak golden clouds"],
     "mood": "awe-inspiring",
     "color_palette": "deep blue and gold"
   },
   "patience": {
-    "keywords": ["mountain snow", "slow waves", "forest path", "calm lake"],
+    "keywords": ["misty mountain valley calm", "still lake reflection sunrise", "peaceful forest morning light"],
     "mood": "meditative",
     "color_palette": "cool blues and greens"
   },
   "prophets": {
-    "keywords": ["islamic architecture", "desert ancient", "mediterranean sea", "old stone city"],
+    "keywords": ["vast sahara desert dunes golden", "rocky canyon dramatic sunset", "ancient valley landscape golden"],
     "mood": "historic and reverent",
     "color_palette": "warm sandstone"
   },
   "tawhid": {
-    "keywords": ["geometric islamic pattern", "calligraphy light", "mosque interior", "abstract light"],
+    "keywords": ["aurora borealis dramatic colors", "golden sun rays clouds dramatic", "sunset ocean horizon golden"],
     "mood": "transcendent",
     "color_palette": "deep teal and gold"
   },
   "society": {
-    "keywords": ["warm interior light", "soft urban morning", "community gathering", "peaceful street"],
+    "keywords": ["green rolling hills sunrise", "morning mist valley golden", "peaceful river nature golden"],
     "mood": "warm and grounded",
     "color_palette": "warm neutrals"
   },
   "history": {
-    "keywords": ["epic landscape", "stormy sky", "ancient ruins", "rocky mountain path"],
+    "keywords": ["epic desert canyon sunset", "dramatic rocky cliffs ocean", "ancient valley storm clouds"],
     "mood": "epic and reflective",
     "color_palette": "dramatic greys and amber"
+  },
+  "cave": {
+    "keywords": ["cave stalactites dramatic light", "rocky grotto light beam", "mountain cave entrance nature"],
+    "mood": "mysterious and sacred",
+    "color_palette": "deep blues and earth tones"
+  },
+  "sea": {
+    "keywords": ["dramatic ocean waves sunset", "stormy sea golden horizon", "coastal cliffs sunset dramatic"],
+    "mood": "powerful and vast",
+    "color_palette": "deep blue and white"
+  },
+  "sky": {
+    "keywords": ["dramatic golden sunset clouds", "aurora borealis night sky", "sunrise orange dramatic sky"],
+    "mood": "vast and inspiring",
+    "color_palette": "blues and oranges"
+  },
+  "universe": {
+    "keywords": ["aurora borealis purple green", "dramatic clouds light rays", "sunset mountain golden dramatic"],
+    "mood": "infinite and awe-inspiring",
+    "color_palette": "deep purple and gold"
   }
 }
