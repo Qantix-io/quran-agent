@@ -1,0 +1,10 @@
+{
+  "headers": [
+    {
+      "source": "/(.*).txt",
+      "headers": [
+        { "key": "Content-Type", "value": "text/plain" }
+      ]
+    }
+  ]
+}
