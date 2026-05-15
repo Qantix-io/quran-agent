@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nour — نور — Quran Recitations</title>
+  <title>Nour Quran</title>
+  <link rel="icon" type="image/png" href="/icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Amiri:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
   <style>
@@ -27,7 +28,6 @@
       overflow-x: hidden;
     }
 
-    /* Starfield background */
     .stars {
       position: fixed;
       inset: 0;
@@ -59,7 +59,6 @@
         radial-gradient(1px 1px at 20% 25%, rgba(255,255,255,0.5) 0%, transparent 100%);
     }
 
-    /* Aurora effect */
     .aurora {
       position: fixed;
       bottom: -20%;
@@ -83,7 +82,6 @@
       to { transform: translateY(-30px) scaleX(1.05); opacity: 1; }
     }
 
-    /* Content */
     .container {
       position: relative;
       z-index: 1;
@@ -96,14 +94,13 @@
       text-align: center;
     }
 
-    /* Arabic crescent decoration */
-    .crescent {
-      font-size: 2rem;
-      color: var(--gold);
-      opacity: 0.8;
-      margin-bottom: 16px;
+    .app-icon {
+      width: 80px;
+      height: 80px;
+      border-radius: 20px;
+      margin-bottom: 24px;
+      box-shadow: 0 0 40px rgba(201, 168, 76, 0.3);
       animation: float 4s ease-in-out infinite;
-      display: block;
     }
 
     @keyframes float {
@@ -111,7 +108,6 @@
       50% { transform: translateY(-8px); }
     }
 
-    /* Title */
     .arabic-title {
       font-family: 'Amiri', serif;
       font-size: clamp(4rem, 12vw, 8rem);
@@ -142,7 +138,6 @@
       to { opacity: 1; transform: translateY(0); }
     }
 
-    /* Divider */
     .divider {
       width: 120px;
       height: 1px;
@@ -153,7 +148,6 @@
       animation-delay: 0.5s;
     }
 
-    /* Tagline */
     .tagline {
       font-size: clamp(1rem, 2.5vw, 1.3rem);
       font-weight: 300;
@@ -178,7 +172,6 @@
       direction: rtl;
     }
 
-    /* Stats */
     .stats {
       display: flex;
       gap: 48px;
@@ -190,9 +183,7 @@
       justify-content: center;
     }
 
-    .stat {
-      text-align: center;
-    }
+    .stat { text-align: center; }
 
     .stat-number {
       font-size: 2rem;
@@ -210,7 +201,6 @@
       margin-top: 6px;
     }
 
-    /* CTA Button */
     .cta-group {
       display: flex;
       gap: 16px;
@@ -263,7 +253,6 @@
       transform: translateY(-2px);
     }
 
-    /* Features */
     .features {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -290,11 +279,7 @@
       transform: translateY(-4px);
     }
 
-    .feature-icon {
-      font-size: 1.5rem;
-      margin-bottom: 12px;
-      display: block;
-    }
+    .feature-icon { font-size: 1.5rem; margin-bottom: 12px; display: block; }
 
     .feature-title {
       font-size: 0.85rem;
@@ -311,7 +296,6 @@
       line-height: 1.6;
     }
 
-    /* Footer */
     footer {
       opacity: 0;
       animation: fadeUp 1s ease forwards;
@@ -321,22 +305,10 @@
       letter-spacing: 0.1em;
     }
 
-    footer a {
-      color: var(--muted);
-      text-decoration: none;
-      transition: color 0.2s;
-    }
+    footer a { color: var(--muted); text-decoration: none; transition: color 0.2s; }
+    footer a:hover { color: var(--gold); }
+    footer .sep { margin: 0 12px; opacity: 0.4; }
 
-    footer a:hover {
-      color: var(--gold);
-    }
-
-    footer .sep {
-      margin: 0 12px;
-      opacity: 0.4;
-    }
-
-    /* Quran verse decoration */
     .verse {
       font-family: 'Amiri', serif;
       font-size: clamp(1rem, 2.5vw, 1.3rem);
@@ -366,10 +338,10 @@
 
 <div class="container">
 
-  <span class="crescent">☽</span>
+  <img src="/icon.png" alt="Nour Quran" class="app-icon">
 
   <div class="arabic-title">نور</div>
-  <div class="latin-title">N o u r</div>
+  <div class="latin-title">N o u r &nbsp; Q u r a n</div>
   <div class="divider"></div>
 
   <p class="tagline">Daily Quran recitations by Mishary Rashid Al-Afasy<br>with synchronized French translations</p>
@@ -394,7 +366,7 @@
   </div>
 
   <div class="cta-group">
-    <a href="https://youtube.com/@coranforllife" class="btn btn-primary" target="_blank">
+    <a href="https://youtube.com/@coranforlifeandafter" class="btn btn-primary" target="_blank">
       ▶ Watch on YouTube
     </a>
     <a href="/legal.html" class="btn btn-secondary">
@@ -421,7 +393,7 @@
   </div>
 
   <footer>
-    <span>© 2026 Nour</span>
+    <span>© 2026 Nour Quran</span>
     <span class="sep">·</span>
     <a href="/legal.html">Terms of Service</a>
     <span class="sep">·</span>

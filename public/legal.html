@@ -3,24 +3,42 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nour — Legal</title>
+  <title>Nour Quran — Legal</title>
+  <link rel="icon" type="image/png" href="/icon.png">
   <style>
     body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; line-height: 1.6; }
-    h1 { color: #1a1a1a; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+    header { text-align: center; margin-bottom: 40px; padding-bottom: 20px; border-bottom: 2px solid #C9A84C; }
+    header img { width: 80px; height: 80px; border-radius: 16px; display: block; margin: 0 auto 12px; }
+    header h1 { font-size: 1.8rem; color: #1a1a1a; margin: 0; }
+    header p { color: #666; font-size: 0.9rem; margin: 4px 0 0; }
+    h1 { color: #1a1a1a; border-bottom: 2px solid #eee; padding-bottom: 10px; margin-top: 40px; }
     h2 { color: #444; margin-top: 30px; }
     a { color: #0066cc; }
+    nav { text-align: center; margin-bottom: 40px; }
+    nav a { margin: 0 16px; color: #C9A84C; text-decoration: none; font-weight: bold; }
   </style>
 </head>
 <body>
 
-<h1>Terms of Service</h1>
+<header>
+  <img src="/icon.png" alt="Nour Quran Logo">
+  <h1>Nour Quran</h1>
+  <p>Daily Quran Recitations with French Translation</p>
+</header>
+
+<nav>
+  <a href="#terms">Terms of Service</a>
+  <a href="#privacy">Privacy Policy</a>
+</nav>
+
+<h1 id="terms">Terms of Service</h1>
 <p><strong>Last updated:</strong> May 3, 2026</p>
 
 <h2>1. About the Application</h2>
-<p>Nour ("the App") is an automated content publishing application that generates and publishes Quran recitation videos with French translations to social media platforms including YouTube and TikTok. The App is operated by an individual creator for religious and educational purposes.</p>
+<p>Nour Quran ("the App") is an automated content publishing application that generates and publishes Quran recitation videos with French translations to social media platforms including YouTube and TikTok. The App is operated by an individual creator for religious and educational purposes.</p>
 
 <h2>2. Use of TikTok API</h2>
-<p>The App uses the TikTok Content Posting API exclusively to publish videos to a single authorized TikTok creator account. The App does not interact with any third-party users' TikTok accounts.</p>
+<p>The App uses the TikTok Content Posting API (video.publish scope) exclusively to publish videos directly to a single authorized TikTok creator account. The App does not interact with any third-party users' TikTok accounts.</p>
 
 <h2>3. Content</h2>
 <p>All video content published by the App consists of Quran recitations by Mishary Rashid Al-Afasy with synchronized French translations. The content is intended for religious education and spiritual enrichment.</p>
@@ -35,18 +53,18 @@
 <p>We reserve the right to modify these terms at any time. Continued use of the App constitutes acceptance of the updated terms.</p>
 
 <h2>7. Contact</h2>
-<p>For any questions regarding these Terms of Service, please contact us at: <a href="mailto:coranforllife@gmail.com">coranforllife@gmail.com</a></p>
+<p>For any questions: <a href="mailto:coranforllife@gmail.com">coranforllife@gmail.com</a></p>
 
-<hr style="margin: 60px 0;">
+<hr style="margin: 60px 0; border-color: #eee;">
 
-<h1>Privacy Policy</h1>
+<h1 id="privacy">Privacy Policy</h1>
 <p><strong>Last updated:</strong> May 3, 2026</p>
 
 <h2>1. Introduction</h2>
-<p>This Privacy Policy describes how the Nour application handles information in connection with your use of our services.</p>
+<p>This Privacy Policy describes how Nour Quran handles information in connection with your use of our services.</p>
 
 <h2>2. Information We Do Not Collect</h2>
-<p>The Nour application does not collect, store, process, or share any personal data from users. Specifically:</p>
+<p>Nour Quran does not collect, store, process, or share any personal data. Specifically:</p>
 <ul>
   <li>No user accounts or registrations are required</li>
   <li>No personal information is collected</li>
@@ -56,26 +74,25 @@
 </ul>
 
 <h2>3. TikTok API Usage</h2>
-<p>The App uses the TikTok Content Posting API to automatically publish video content to a single authorized creator account. The App:</p>
+<p>The App uses the TikTok Content Posting API (video.publish scope) to automatically publish video content to a single authorized creator account. The App:</p>
 <ul>
   <li>Only accesses the creator's own TikTok account</li>
   <li>Does not access, store, or process any other user's TikTok data</li>
   <li>Does not collect any data through the TikTok API</li>
-  <li>Uses only the <strong>video.publish</strong> scope to upload videos</li>
+  <li>Uses only the <strong>video.publish</strong> scope to upload videos directly</li>
 </ul>
 
 <h2>4. Data Storage</h2>
-<p>The App stores only the video files generated for publication (Quran recitation videos) locally on the operator's server. No personal data is stored at any point.</p>
+<p>The App stores only the video files generated for publication locally on the operator's server. No personal data is stored at any point.</p>
 
 <h2>5. Third-Party Services</h2>
-<p>The App integrates with the following third-party APIs for content generation:</p>
+<p>The App integrates with the following third-party APIs:</p>
 <ul>
-  <li><strong>TikTok Content Posting API</strong> — for video publication</li>
+  <li><strong>TikTok Content Posting API</strong> — video.publish scope for direct video publication</li>
   <li><strong>YouTube Data API</strong> — for video publication</li>
   <li><strong>OpenAI API</strong> — for metadata generation</li>
   <li><strong>Pexels API</strong> — for background images</li>
 </ul>
-<p>Each of these services has its own privacy policy. No user data is shared with these services.</p>
 
 <h2>6. Children's Privacy</h2>
 <p>The App does not collect any data from children or any other users. Our content is suitable for all ages.</p>
@@ -83,8 +100,8 @@
 <h2>7. Changes to This Policy</h2>
 <p>We may update this Privacy Policy from time to time. We will notify users of any changes by updating the date at the top of this page.</p>
 
-<h2>8. Contact Us</h2>
-<p>If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:coranforllife@gmail.com">coranforllife@gmail.com</a></p>
+<h2>8. Contact</h2>
+<p>For any questions: <a href="mailto:coranforllife@gmail.com">coranforllife@gmail.com</a></p>
 
 </body>
 </html>
